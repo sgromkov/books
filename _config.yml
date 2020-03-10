@@ -1,8 +1,8 @@
-title: Блог
+title: Документация
 
-description: Сам себя не напишет
+description: Сама себя не напишет
 
-baseurl: "/blog"
+baseurl: "/docs"
 
 url: "https://gromkov.me"
 
