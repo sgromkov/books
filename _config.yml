@@ -1,6 +1,6 @@
-title: Документация
+title: gromkov.me/docs
 
-description: Сама себя не напишет
+description: Документация сама себя не напишет
 
 baseurl: "/docs"
 
@@ -13,5 +13,11 @@ search_enabled: false
 aux_links:
     "Сережа Громков":
       - "//gromkov.me/"
+    "Вконтакте":
+      - "https://vk.com/t_a_n_f"
+    "LinkedIn":
+      - "https://ru.linkedin.com/in/sgromkov"
+    "Github":
+      - "https://github.com/sgromkov"
 
 footer_content: "Copyright &copy; 2020 Sergey Gromkov."
