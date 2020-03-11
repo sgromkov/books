@@ -10,7 +10,7 @@ parent: Видео
 
 # HTML: The Good Parts
 
-Доклад **Вадима Макеев**
+Доклад **Вадима Макеева**
 
 [**Смотреть доклад в ютубе**](https://www.youtube.com/watch?v=eLlULhNNthI&t=5592s)
 
