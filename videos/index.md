@@ -3,6 +3,7 @@ layout: default
 title: Видео
 description: Избранные видео по фронетнду, собранные вручную.
 nav_order: 3
+has_children: true
 ---
 
 # Избранные видео по&nbsp;фронтенду, собранные вручную
