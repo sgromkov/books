@@ -8,7 +8,7 @@ parent: Видео
 # HTML: The Good Parts
 
 <div class="video">
-    <iframe width="966" height="543" src="https://www.youtube.com/embed/eLlULhNNthI?t=5592" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="966" height="543" src="https://www.youtube.com/embed/eLlULhNNthI?start=5592" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 [Вадим Макеев](https://pepelsbey.net/author/) покопал спецификацию и рассказывает про важные особенности HTML:
