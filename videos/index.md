@@ -4,6 +4,7 @@ title: Видео
 description: Избранные видео по фронетнду, собранные вручную.
 nav_order: 3
 has_children: true
+has_toc: false
 ---
 
 # Избранные видео по&nbsp;фронтенду, собранные вручную
