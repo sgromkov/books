@@ -21,3 +21,6 @@ aux_links:
       - "https://github.com/sgromkov"
 
 footer_content: "Copyright &copy; 2020 Sergey Gromkov."
+
+plugin:
+  - jekyll-admin
