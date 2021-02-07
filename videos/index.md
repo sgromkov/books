@@ -9,10 +9,36 @@ has_toc: false
 
 # Избранные видео по&nbsp;фронтенду, собранные вручную
 
-| Название | Автор | Где смотреть |
+## Про качество кода
+
+| Название | Автор | Заметки |
 |:---------|:------|:-----------|
-| Как писать код с уважением | Владимир Лусс | [YouTube](https://www.youtube.com/watch?v=R4-uveKppV8) |
-| Глазные интерфейсы | Иван Бакаидов | [YouTube]((https://www.youtube.com/watch?v=eLlULhNNthI&t=450s)) |
-| [HTML: The Good Parts](html-the-good-parts) | Вадим Макеев | [YouTube](https://www.youtube.com/watch?v=eLlULhNNthI&t=5592s) |
-| Как сделать редактор майндмэпов | Тим Чаптыков | [YouTube](https://www.youtube.com/watch?v=eLlULhNNthI&t=14706s) |
-| Просто о Чистом коде и качестве кода | Евгений Ковальчук | [YouTube](https://www.youtube.com/watch?v=XT6XkIJIVbA) |
+| [Как писать код с уважением](https://www.youtube.com/watch?v=R4-uveKppV8) | Владимир Лусс |  |
+| [Просто о Чистом коде и качестве кода](https://www.youtube.com/watch?v=XT6XkIJIVbA) | Евгений Ковальчук | |
+
+## Про доступность
+
+| Название | Автор | Заметки |
+|:---------|:------|:-----------|
+| [Глазные интерфейсы](https://www.youtube.com/watch?v=eLlULhNNthI&t=450s) | Иван Бакаидов |  |
+| [HTML: The Good Parts](https://www.youtube.com/watch?v=eLlULhNNthI&t=5592s) | Вадим Макеев | [Читать](html-the-good-parts) |
+
+## Про собеседования
+
+| Название | Автор | Заметки |
+|:---------|:------|:-----------|
+| [Собеседования глазами компании](https://www.youtube.com/watch?v=ll3aCbLMLqI) | Никита Шуклин, Андрей Ситник, Игорь Камышев, Ольга Шпутенко, Сергей Бережной |  |
+| [Собеседования глазами кандидата](https://www.youtube.com/watch?v=-hXPLdphL88) | Кира Кузьменко, Алексей Охрименко, Юлия Дроздик, Дэннис Арчаков, Владислав Козуля | |
+
+## Про рефакторинг
+
+| Название | Автор | Заметки |
+|:---------|:------|:-----------|
+| [Методы борьбы с legacy-кодом на примере GitLab](https://www.youtube.com/watch?v=3tdfBMRq34o) | Илья Климов | |
+
+## Про необычные подходы
+
+| Название | Автор | Заметки |
+|:---------|:------|:-----------|
+| [Как сделать редактор майндмэпов](https://www.youtube.com/watch?v=eLlULhNNthI&t=14706s) | Тим Чаптыков | |
+| [Путь к разработке расширяемых интерфейсов](https://www.youtube.com/watch?v=omeYq2BGYTU) | Ярослав Сергиевский | |
